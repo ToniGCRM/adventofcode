@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Santa Sonar/1.0.0": {
+        "runtime": {
+          "Santa Sonar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Santa Sonar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
